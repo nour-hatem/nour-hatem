@@ -19,8 +19,6 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
 - 💬 Ask me about Machine Learning, Deep Learning, Data Analysis, and MLOps
 - ♟️ Fun fact: My love for chess shapes how I approach data-strategically, step by step, to uncover the best moves hidden in the numbers
 
----
-
 ## 📌 Quick Links
 
 <p align="center">
@@ -41,8 +39,6 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
   </a>
 </p>
 
----
-
 ## 💼 Expertise Areas
 
 | Category | Skills |
@@ -52,8 +48,6 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
 | **Deep Learning** | Neural Networks, CNNs, NLP, Transfer Learning, Computer Vision |
 | **Deployment** | Streamlit, FastAPI, Flask, Docker, Model Serving |
 | **Visualization** | Dashboards, Interactive Plots, Business Intelligence, Storytelling with Data |
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -126,8 +120,6 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
----
-
 <!-- ## 📚 Featured Projects
 
 ### 🏥 Alzheimer-ML-Classifier
@@ -169,8 +161,6 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
   />
 </div>
 
----
-
 ## 🎯 What I'm Currently Learning
 
 - **Advanced Deep Learning** - Transformers, Graph Neural Networks, Vision Transformers
@@ -178,8 +168,6 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
 - **Production ML Systems** - Model versioning, monitoring, and continuous deployment
 - **Advanced NLP** - Semantic search, question answering, and text summarization
 - **Big Data Processing** - Apache Spark, distributed computing, stream processing
-
----
 
 ## 🤝 Let's Collaborate!
 
@@ -191,13 +179,9 @@ I'm actively looking for opportunities to:
 
 Feel free to reach out if you're interested in working together!
 
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/n0urhatem/n0urhatem/output/snake-dark.svg" alt="Snake Animation"/>
 </div>
-
----
 
 ### ✨ Thanks for visiting! Feel free to reach out and let's build something amazing together! ✨
 
