@@ -1,19 +1,137 @@
-<div align="center"><!-- Dynamic Typing Header: Stronger value proposition --><h1><a href="https://github.com/n0urhatem"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DPoppins%26weight%3D700%26size%3D40%26duration%3D3000%26pause%3D1000%26color%3D007ACC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D650%26lines%3DHi%252C%2BI%27m%2BNour%2BHatem%3BML%2BEngineer%2B%257C%2BAI%2BDeveloper%2B%257C%2BData%2BScientist%3BBuilding%2BScalable%2BPredictive%2BSolutions" alt="Typing SVG" /></a></h1><!-- Social & Contact Badges -->
+# Hi there, I'm Nour Hatem! 👋
+<div align="center">
+
+<a href="https://github.com/n0urhatem">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B+I'm+Nour+Hatem;Data+Scientist;ML+Engineer;Data+Analyst;AI+Enthusiast;" alt="Typing SVG" />
+</a>
+
+</div>
+
+## 🚀 About Me
+
+I'm a **Computer Science & AI student** at Helwan University, passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems.
+
+**What drives me:** Leveraging cutting-edge Machine Learning and AI to create scalable solutions that make a measurable impact on businesses and society.
+
+**Current Focus:**
+- 🔭 Working on end-to-end ML pipelines and production-ready AI systems
+- 🌱 Diving deep into **Transformers**, **LLMs**, and **Generative AI**
+- 🤝 Open to collaborating on innovative **Data Science** and **AI** projects
+- 💬 Ask me about **Machine Learning**, **Data Analysis**, **Deep Learning**, or **MLOps**
+- ⚡ Fun fact: I believe every dataset has a story waiting to be told!
+
 <p align="center">
-    <a href="https://linkedin.com/in/nour-hatem-" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.kaggle.com/nourelhashash" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-    </a>
-    <a href="mailto:nour.hatem117@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/n0urhatem">
-        <img src="https://img.shields.io/github/followers/n0urhatem?style=for-the-badge&label=Follow&logo=github" alt="GitHub Followers"/>
-    </a>
-    <a href="https://github.com/n0urhatem">
-        <img src="https://komarev.com/ghpvc/?username=n0urhatem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-    </a>
+  <a href="https://nourhatem.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=appveyor&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://linkedin.com/in/nour-hatem-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/nourelhashash" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:nour.hatem117@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/n0urhatem">
+    <img src="https://komarev.com/ghpvc/?username=n0urhatem&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  </a>
 </p>
-</div>💡 About Me: Focused on Production & Business ImpactI'm a Computer Science and Artificial Intelligence student at Helwan University, specializing in Machine Learning Engineering and Data Science. My goal is to bridge the gap between model development and production deployment.My expertise spans the entire data lifecycle: from Exploratory Data Analysis (EDA) and Feature Engineering to building, optimizing, and deploying production-grade AI/ML models. I am driven by the challenge of extracting actionable, business-driving insights from complex datasets.🔭 Current Goal: Mastering MLOps frameworks, Generative AI models (LLMs), and high-volume Data Engineering tools.🤝 Collaboration: Actively seeking opportunities for collaboration on open-source projects, Kaggle competitions, and real-world ML challenges.🚀 Technical Toolbox (My Skill Matrix)A detailed breakdown of the tools and technologies I use across development, data analysis, and model deployment.💻 Core Languages & Databases<p align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,r,cpp,sql,mysql,postgres,mongodb" alt="Programming Languages and Databases" /></p>🔬 ML & Deep Learning Frameworks<p align="center"><img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,keras,pandas,numpy,matplotlib,seaborn,xgboost" alt="Data Science and ML" /></p>⚙️ MLOps & Data Engineering (Production Readiness)This section highlights skills critical for large-scale data workflows and model deployment.<p align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,gcp,docker,kubernetes,mlflow,airflow,dvc,kafka,spark" alt="MLOps and Data Engineering Tools" /></p>📊 BI, Visualization, & Analytics<p align="center"><img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,streamlit,jupyter" alt="BI and Visualization" /></p>🛠️ Development Tools & Version Control<p align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode" alt="Tools and Environment" /></p>🌱 Currently Deep Diving (Future Skills)This section showcases commitment to continuous growth and cutting-edge technologies.Generative AI: Focus on fine-tuning and deploying Large Language Models (LLMs) and advanced NLP techniques (e.g., Transformers).Distributed Systems: Hands-on experience with Apache Spark for high-performance, large-scale data processing.Time Series Forecasting: Advanced models like Prophet and specialized Deep Learning for business forecasting.🌐 Community & Competitive Coding<p align="center"><a href="https://www.kaggle.com/nourelhashash" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-Competitions&_Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a><a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Algorithm_Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a><a href="https://www.hackerrank.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HackerRank-Coding_Challenges-00EA64%3Fstyle%3Dfor-the-badge%26logo%3Dhackerrank%26logoColor%3Dwhite" alt="HackerRank"/></a><a href="https://stackoverflow.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Stack_Overflow-Community-F58025%3Fstyle%3Dfor-the-badge%26logo%3Dstackoverflow%26logoColor%3Dwhite" alt="Stack Overflow"/></a></p>📊 GitHub Stats & Activity<table width="100%" align="center"><tr><td width="50%" align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dn0urhatem%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26locale%3Den%26title_color%3D007ACC%26icon_color%3D007ACC" alt="Nour's GitHub Stats" /></td><td width="50%" align="center"><img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dn0urhatem%26theme%3Ddark%26hide_border%3Dtrue%26locale%3Den%26fire%3D007ACC%26ring%3D007ACC%26sideNums%3D007ACC" alt="Nour's GitHub Streak" /></td></tr><tr><td colspan="2" align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dn0urhatem%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26locale%3Den%26title_color%3D007ACC%26icon_color%3D007ACC" alt="Nour's Top Languages" /></td></tr></table><p align="center"><img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dn0urhatem%26theme%3Dgithub-dark%26hide_border%3Dtrue%26area%3Dtrue%26line%3D007ACC" alt="Nour's GitHub Activity Graph" /></p>🐍 Contribution Snake<div align="center"><img src="https://raw.githubusercontent.com/n0urhatem/n0urhatem/output/snake-dark.svg" alt="Snake Animation"/></div>💭 Random Dev Quote<div align="center"><img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Ddark%26bg_color%3D1F222E%26border_color%3D007ACC" /></div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+### Data Science & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</p>
+
+### Data Visualization & BI
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+### Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+</p>
+
+### Development Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+### MLOps & Orchestration
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n0urhatem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Nour's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0urhatem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=n0urhatem&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/n0urhatem/n0urhatem/output/snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+---
+
+### ✨ Thanks for visiting! Feel free to reach out and let's build something amazing together! ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
