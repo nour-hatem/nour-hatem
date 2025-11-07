@@ -43,39 +43,22 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
 
 
 <p align="center">
-
   <a href="https://nourhatem.netlify.app/" target="_blank">
-
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=appveyor&logoColor=white" alt="Website"/>
-
+    <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=appveyor&logoColor=white" alt="Website"/>
   </a>
-
   <a href="https://linkedin.com/in/nour-hatem-" target="_blank">
-
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
   </a>
-
   <a href="https://www.kaggle.com/nourelhashash" target="_blank">
-
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-
   </a>
-
   <a href="mailto:nour.hatem117@gmail.com">
-
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-
   </a>
-
   <a href="https://github.com/n0urhatem">
-
-    <img src="https://komarev.com/ghpvc/?username=n0urhatem&label=Profile%20Views&color=dark&style=for-the-badge" alt="Profile Views"/>
-
+    <img src="https://komarev.com/ghpvc/?username=n0urhatem&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
   </a>
-
 </p>
-
 
 
 ---
