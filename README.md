@@ -1,47 +1,18 @@
 # Hi there, I'm Nour Hatem! 👋
-
 <div align="center">
-
-
-
 <a href="https://github.com/n0urhatem">
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Data+Scientist;ML+Engineer;Data+Analyst;AI+Enthusiast;" alt="Typing SVG" />
-
 </a>
-
-
-
 </div>
-
-
-
 ## 🚀 About Me
-
-
-
 I'm a **Computer Science & AI student** at Helwan University, passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems.
-
-
-
 **What drives me:** Leveraging cutting-edge Machine Learning and AI to create scalable solutions that make a measurable impact on businesses and society.
-
-
-
 **Current Focus:**
-
 - 🔭 Working on end-to-end Machine Learning projects and production-ready AI systems
-
 - 🌱 Deepening expertise in Data Analysis, Exploratory Data Analysis (EDA), and Model Evaluation
-
 - 🤝 Open to collaborating on impactful AI and Data Science projects
-
 - 💬 Ask me about Machine Learning, Deep Learning, Data Analysis, and MLOps
-
 - ♟️ Fun fact: My love for chess shapes how I approach data—strategically, step by step, to uncover the best moves hidden in the numbers
-
-
-
 <p align="center">
   <a href="https://nourhatem.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=appveyor&logoColor=white" alt="Website"/>
@@ -59,16 +30,9 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
     <img src="https://komarev.com/ghpvc/?username=n0urhatem&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
-
-
 ---
-
-
-
 ## 🛠️ Tech Stack & Tools
-
 ### Programming Languages
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
@@ -148,57 +112,21 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
-
-
-
 ---
-
-
-
 ## 📈 GitHub Analytics
-
-
-
 <div align="center">
-
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=n0urhatem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Nour's GitHub Stats"/>
-
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0urhatem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
 </div>
-
-
-
 <div align="center">
-
   <img src="https://streak-stats.demolab.com?user=n0urhatem&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
-
 </div>
-
-
-
 ---
-
-
-
 ## 🐍 Contribution Snake
-
-
-
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/n0urhatem/n0urhatem/output/snake-dark.svg" alt="Snake Animation"/>
-
 </div>
-
-
-
 ---
-
-
-
 ### ✨ Thanks for visiting! Feel free to reach out and let's build something amazing together! ✨
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
