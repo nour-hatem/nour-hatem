@@ -1,19 +1,112 @@
-<div align="center"><!-- Main Title and Animated Headline --><h1><a href="https://github.com/n0urhatem"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DPoppins%26weight%3D700%26size%3D40%26duration%3D3000%26pause%3D1000%26color%3D007ACC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D650%26lines%3DNour%2BHatem%3BData%2BScientist%2B%257C%2BML%2BEngineer%2B%257C%2BAI%2BDeveloper%3BBuilding%2BPredictive%2BSolutions" alt="Typing SVG" /></a></h1><!-- Social & Contact Badges -->
-<p align="center">
-    <a href="https://linkedin.com/in/nour-hatem-" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.kaggle.com/nourelhashash" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-    </a>
-    <a href="mailto:nour.hatem117@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/n0urhatem">
-        <img src="https://img.shields.io/github/followers/n0urhatem?style=for-the-badge&label=Follow&logo=github" alt="GitHub Followers"/>
-    </a>
-    <a href="https://github.com/n0urhatem">
-        <img src="https://komarev.com/ghpvc/?username=n0urhatem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-    </a>
-</p>
-</div>💡 About Me: Data-Driven ImpactI'm a Computer Science and Artificial Intelligence student at Helwan University, passionate about leveraging Machine Learning and Data Science to solve complex, real-world challenges.My focus is on the entire data lifecycle: from Exploratory Data Analysis (EDA) and Feature Engineering to building, optimizing, and deploying production-ready predictive models. I thrive on extracting actionable insights from complex datasets to drive intelligent decisions.🔭 Current Goal: Mastering MLOps practices and working with large-scale data processing tools like Spark.🤝 Collaboration: I’m actively seeking opportunities to collaborate on impactful AI/ML projects and open-source contributions.📧 Contact: Feel free to reach out via LinkedIn.🚀 Technical ToolboxA comprehensive list of the languages, frameworks, and tools I use for development, data analysis, and model deployment.💻 Languages & Core Data<p align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,r,cpp,sql,mysql,postgres,mongodb" alt="Programming Languages and Databases" /></p>🔬 Data Science & Machine Learning Frameworks<p align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dscikitlearn,tensorflow,pytorch,keras,pandas,numpy,matplotlib,seaborn,jupyter" alt="Data Science and ML" /></p>☁️ MLOps & Data Engineering PipelinesThis section highlights skills critical for moving models to production and managing data workflows.<p align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,gcp,docker,kubernetes,mlflow,airflow,dvc,kafka,spark" alt="MLOps and Data Engineering Tools" /></p>📊 Business Intelligence & Visualization<p align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpowerbi,tableau,excel,streamlit" alt="BI and Visualization" /></p>🛠️ Development Tools & Version Control<p align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode" alt="Tools and Environment" /></p>📚 Learning & Community EngagementI believe in continuous learning and actively participating in the data and development community.<p align="center"><a href="https://www.kaggle.com/nourelhashash" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-Competitions&_Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a><a href="https://www.codeforces.com/" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a><a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Algorithm_Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a><a href="https://towardsdatascience.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Towards_Data_Science-Reading_Insights-000000%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite" alt="Towards Data Science"/></a></p>🌱 Currently Deep DivingGenerative AI: Focus on fine-tuning and deployment of Large Language Models (LLMs) and advanced NLP techniques.Time Series Analysis: Mastering complex models like ARIMA and Prophet for business forecasting.Distributed Computing: Hands-on projects using Apache Spark for large-scale data processing.📊 GitHub Stats (Activity & Contributions)<table width="100%" align="center"><tr><td width="50%" align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dn0urhatem%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26locale%3Den%26title_color%3D007ACC%26icon_color%3D007ACC" alt="Nour's GitHub Stats" /></td><td width="50%" align="center"><img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dn0urhatem%26theme%3Ddark%26hide_border%3Dtrue%26locale%3Den%26fire%3D007ACC%26ring%3D007ACC%26sideNums%3D007ACC" alt="Nour's GitHub Streak" /></td></tr><tr><td colspan="2" align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dn0urhatem%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26locale%3Den%26title_color%3D007ACC%26icon_color%3D007ACC" alt="Nour's Top Languages" /></td></tr></table><p align="center"><img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dn0urhatem%26theme%3Dgithub-dark%26hide_border%3Dtrue%26area%3Dtrue%26line%3D007ACC" alt="Nour's GitHub Activity Graph" /></p><p align="center"><img src="https://raw.githubusercontent.com/n0urhatem/n0urhatem/output/snake-dark.svg" alt="Snake Animation" /></p>
+Hello, I'm Nour Hatem
+
+
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&#x26;weight=600&#x26;size=35&#x26;duration=4000&#x26;pause=1000&#x26;color=007ACC&#x26;center=true&#x26;vCenter=true&#x26;width=600&#x26;lines=Nour+Hatem;Data+Scientist+%7C+ML+Engineer+%7C+AI+Enthusiast" alt="Typing SVG">
+  
+
+
+  
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
+  
+  
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&#x26;logo=kaggle&#x26;logoColor=white" alt="Kaggle">
+  
+  
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
+  
+  
+    <img src="https://img.shields.io/github/followers/n0urhatem?style=for-the-badge&#x26;logo=github" alt="GitHub Followers">
+  
+  
+    <img src="https://komarev.com/ghpvc/?username=n0urhatem&#x26;label=Profile%20Views&#x26;color=0e75b6&#x26;style=for-the-badge" alt="Profile Views">
+  
+
+
+
+👋 About Me & My Vision
+I’m a Computer Science and Artificial Intelligence student at Helwan University, specializing in Data Science, Machine Learning, and Data Analysis. My expertise lies in predictive modeling, data visualization, and solving real-world problems by deriving actionable insights from complex datasets. Proficient in programming, algorithms, statistical modeling, and applied ML frameworks like Scikit-learn, TensorFlow, and PyTorch, I aim to leverage Artificial Intelligence to create scalable, data-driven systems that drive business value and enhance everyday life.
+
+🤝 Open to Collaboration: Eager to team up on AI projects addressing business challenges—let's connect!
+📫 Reach Out: Email me at nour.hatem117@gmail.com or via LinkedIn.
+
+
+🛠️ My Technical Toolbox
+💻 Languages & Databases
+
+<img src="https://skillicons.dev/icons?i=python,r,cpp,mysql,postgres,mongodb" alt="Programming Languages and Databases">
+
+🔬 Data Science & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,keras,pandas,numpy,matplotlib,seaborn,xgboost" alt="Data Science and ML">
+
+☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" alt="Cloud and Deployment">
+
+📊 Business Intelligence & Visualization
+
+<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,streamlit,jupyter" alt="BI and Visualization">
+
+🛠️ Tools & Environment (Expanded with Data Engineering Tools)
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,airflow,dvc,spark" alt="Tools and Environment">
+
+
+🚀 Featured Projects
+Here are some of my standout projects demonstrating end-to-end data science workflows, from data analysis to model deployment. Each includes key techniques, results, and links for exploration.
+
+Alzheimer's ML Classifier
+Supervised learning model for classifying Alzheimer’s disease, featuring benchmarking, feature analysis, and extensive EDA.
+View Repository | Tech: Jupyter Notebook, Scikit-learn
+E-Commerce SQL Database Analysis
+Built an e-commerce database from scratch, performed SQL-based analysis, and visualized insights for business decisions.
+View Repository | Tech: SQL, Data Visualization Tools
+FNP Sales Analysis Dashboard
+Excel-based dashboard analyzing sales performance, customer spending, delivery efficiency, and peak trends for Ferns N Petals.
+View Repository | Tech: Microsoft Excel, Data Analytics
+Heart Disease Prediction System
+Full ML pipeline predicting heart disease risk, with model evaluation and Streamlit deployment for real-time predictions.
+View Repository | Tech: Python, Scikit-learn, Streamlit
+
+
+🌱 Currently Learning
+
+Advanced Deep Learning (Transformers, CNNs)
+Generative AI and NLP
+Data Engineering with Apache Airflow and Spark
+MLOps for production-grade systems
+
+
+🌐 Connect & Learn
+Stay updated and collaborate through these platforms for competitions, coding practice, and industry insights.
+
+
+    <img src="https://img.shields.io/badge/Kaggle-Competitions_&#x26;_Datasets-20BEFF?style=for-the-badge&#x26;logo=kaggle&#x26;logoColor=white" alt="Kaggle">
+  
+  
+    <img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACF?style=for-the-badge&#x26;logo=codeforces&#x26;logoColor=white" alt="Codeforces">
+  
+  
+    <img src="https://img.shields.io/badge/LeetCode-Algorithm_Practice-FFA116?style=for-the-badge&#x26;logo=leetcode&#x26;logoColor=white" alt="LeetCode">
+  
+  
+    <img src="https://img.shields.io/badge/Towards_Data_Science-Medium_Blog-000000?style=for-the-badge&#x26;logo=medium&#x26;logoColor=white" alt="Towards Data Science">
+  
+
+
+📊 GitHub Stats
+
+      <img src="https://github-readme-stats.vercel.app/api?username=n0urhatem&#x26;show_icons=true&#x26;include_all_commits=true&#x26;count_private=true&#x26;theme=dark&#x26;hide_border=true&#x26;locale=en" alt="Nour&#x27;s GitHub Stats">
+    
+      <img src="https://streak-stats.demolab.com?user=n0urhatem&#x26;theme=dark&#x26;hide_border=true&#x26;locale=en" alt="Nour&#x27;s GitHub Streak">
+    
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0urhatem&#x26;layout=compact&#x26;theme=dark&#x26;hide_border=true&#x26;locale=en" alt="Nour&#x27;s Top Languages">
+    
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n0urhatem&#x26;theme=github-dark&#x26;hide_border=true&#x26;area=true" alt="Nour&#x27;s GitHub Activity Graph">
+
+
+<img src="https://github.com/n0urhatem/n0urhatem/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=n0urhatem&#x26;theme=radical&#x26;no-frame=true" alt="GitHub Trophies">
