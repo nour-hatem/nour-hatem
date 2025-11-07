@@ -5,44 +5,59 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Data+Scientist;ML+Engineer;Data+Analyst;AI+Enthusiast;" alt="Typing SVG" />
 </a>
 </div>
+
+---
+
 ## 🚀 About Me
+
 I'm a **Computer Science & AI student** at Helwan University, passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems.
+
 **What drives me:** Leveraging cutting-edge Machine Learning and AI to create scalable solutions that make a measurable impact on businesses and society.
+
 **Current Focus:**
 - 🔭 Working on end-to-end Machine Learning projects and production-ready AI systems
 - 🌱 Deepening expertise in Data Analysis, Exploratory Data Analysis (EDA), and Model Evaluation
 - 🤝 Open to collaborating on impactful AI and Data Science projects
 - 💬 Ask me about Machine Learning, Deep Learning, Data Analysis, and MLOps
-- ♟️ Fun fact: My love for chess shapes how I approach data—strategically, step by step, to uncover the best moves hidden in the numbers
+- ♟️ Fun fact: My love for chess shapes how I approach data-strategically, step by step, to uncover the best moves hidden in the numbers
+
+---
+
+## 📌 Quick Links
+
 <p align="center">
   <a href="https://nourhatem.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=appveyor&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-4A90E2?style=for-the-badge&logo=appveyor&logoColor=white" alt="Website"/>
   </a>
   <a href="https://linkedin.com/in/nour-hatem-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/nourelhashash" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/🏆_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="mailto:nour.hatem117@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/✉️_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/n0urhatem">
     <img src="https://komarev.com/ghpvc/?username=n0urhatem&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
+
 ---
+
+## 💼 Expertise Areas
+
+| Category | Skills |
+|----------|--------|
+| **Data Analysis** | EDA, Statistical Analysis, Feature Engineering, Data Cleaning |
+| **Machine Learning** | Supervised Learning, Unsupervised Learning, Ensemble Methods, Model Optimization |
+| **Deep Learning** | Neural Networks, CNNs, NLP, Transfer Learning, Computer Vision |
+| **Deployment** | Streamlit, FastAPI, Flask, Docker, Model Serving |
+| **Visualization** | Dashboards, Interactive Plots, Business Intelligence, Storytelling with Data |
+
+---
+
 ## 🛠️ Tech Stack & Tools
-### Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
 
 ### Data Science & Machine Learning
 
@@ -75,19 +90,18 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-### Cloud & DevOps
+### Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
+
 
 ### Development Tools
 
@@ -113,21 +127,80 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
+
 ---
+
+<!-- ## 📚 Featured Projects
+
+### 🏥 Alzheimer-ML-Classifier
+**Classification | Deep Learning | Medical AI**
+- Supervised learning-based classification of Alzheimer's disease with comprehensive model benchmarking
+- Feature analysis & extensive exploratory data analysis (EDA)
+- Multiple models evaluated for optimal performance
+- **[Repository](https://github.com/n0urhatem/Alzheimer-ML-Classifier)**
+
+### 💳 ECommerce-SQL-Database-Analysis
+**Data Engineering | SQL | Analytics**
+- End-to-end data analysis project for e-commerce dataset
+- Built database from scratch with normalized schema
+- Complex SQL queries for business insights
+- **[Repository](https://github.com/n0urhatem/ECommerce-SQL-Database-Analysis)**
+
+### 🌸 FNP-Sales-Analysis
+**Business Intelligence | Excel | Dashboard**
+- Sales performance analysis dashboard for Ferns N Petals
+- Product sales, customer spending, delivery efficiency insights
+- Peak occurrence patterns & seasonal trends
+- **[Repository](https://github.com/n0urhatem/FNP-Sales-Analysis)**
+
+### ❤️ Heart-Disease-Prediction
+**Predictive Modeling | Streamlit Deployment | Production-Ready**
+- Complete data science pipeline with model evaluation
+- Multiple ML models benchmarked & optimized
+- Interactive Streamlit web app for real-time predictions
+- **[Repository](https://github.com/n0urhatem/Heart-Disease-Prediction)** | **[Live Demo](https://heart-disease-predictor.streamlit.app/)**
+
+--- -->
+
 ## 📈 GitHub Analytics
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=n0urhatem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Nour's GitHub Stats"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0urhatem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=n0urhatem&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=n0urhatem&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" 
+    alt="Nour's GitHub Stats"
+  />
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=n0urhatem&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
-</div>
+
 ---
-## 🐍 Contribution Snake
+
+## 🎯 What I'm Currently Learning
+
+- **Advanced Deep Learning** - Transformers, Graph Neural Networks, Vision Transformers
+- **Generative AI & LLMs** - Fine-tuning, Prompt Engineering, Retrieval-Augmented Generation (RAG)
+- **Production ML Systems** - Model versioning, monitoring, and continuous deployment
+- **Advanced NLP** - Semantic search, question answering, and text summarization
+- **Big Data Processing** - Apache Spark, distributed computing, stream processing
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm actively looking for opportunities to:
+- **Collaborate** on innovative data science projects
+- **Contribute** to open-source ML/AI projects
+- **Discuss** best practices in ML engineering and data science
+- **Partner** on real-world problem-solving initiatives
+
+Feel free to reach out if you're interested in working together!
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/n0urhatem/n0urhatem/output/snake-dark.svg" alt="Snake Animation"/>
 </div>
+
 ---
+
 ### ✨ Thanks for visiting! Feel free to reach out and let's build something amazing together! ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
