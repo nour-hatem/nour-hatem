@@ -1,159 +1,119 @@
 <div align="center">
-  
-# 👋 Hello, I'm Nour Hatem
 
 <h1 align="center">
   <a href="https://github.com/n0urhatem">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+Researcher;MLOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=800&color=0078F2&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Nour+Hatem;Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;AI+and+Machine+Learning+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
-### Data Scientist | ML Engineer | AI Researcher
-
-<p align="center">
-  <a href="https://linkedin.com/in/nour-hatem-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/nourelhashash" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="mailto:nour.hatem117@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/n0urhatem">
-    <img src="https://img.shields.io/github/followers/n0urhatem?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/n0urhatem?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-20+-blue?style=for-the-badge&logo=github" alt="Projects"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-hatem-)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nourhatem)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nour.hatem117@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n0urhatem)
 
 </div>
 
 ---
 
-## 🚀 About Me & Vision
+### 👨‍💻 About Me  
+I'm a **Computer Science and Artificial Intelligence student** focused on **Data Science, Machine Learning, and Data Analysis**.  
+I build data-driven solutions that extract real insights and impact decisions.
 
-I'm a passionate **Computer Science and Artificial Intelligence** student at Helwan University, dedicated to transforming complex data into actionable intelligence. My expertise lies in building end-to-end **machine learning systems** that solve real-world challenges across various domains.
+**What drives me:**  
+Turning complex datasets into simple, actionable stories.  
 
-**What drives me:**
-- 🔭 **Research & Innovation:** Exploring cutting-edge AI architectures and their practical applications
-- 💡 **Problem Solving:** Leveraging data-driven approaches to tackle complex business challenges
-- 🛠️ **Production ML:** Building scalable, maintainable ML systems with MLOps principles
-- 🌱 **Continuous Learning:** Staying at the forefront of AI research and industry trends
-
-**Currently seeking collaborations on:** Open-source ML projects, research initiatives, and industry applications of AI.
-
----
-
-## 🏆 Featured Projects
-
-### 🤖 Advanced ML Projects
-- **[Predictive Analytics Framework](https://github.com/n0urhatem/predictive-analytics)** - End-to-end pipeline for time series forecasting
-- **[Computer Vision Toolkit](https://github.com/n0urhatem/cv-toolkit)** - Pre-trained models for image classification and object detection
-- **[NLP Text Classification](https://github.com/n0urhatem/nlp-classification)** - Transformer-based models for text analysis
-
-### 📊 Data Science Portfolio
-- **[Customer Segmentation](https://github.com/n0urhatem/customer-segmentation)** - Unsupervised learning for market analysis
-- **[Sales Forecasting](https://github.com/n0urhatem/sales-forecast)** - Time series analysis with ensemble methods
-- **[Data Visualization Dashboards](https://github.com/n0urhatem/dashboards)** - Interactive BI tools with Streamlit and Plotly
+**Current Focus:**  
+- Building ML pipelines and end-to-end predictive systems  
+- Exploring MLOps, Deep Learning, and Generative AI  
+- Practicing continuous learning through projects and Kaggle competitions  
 
 ---
 
-## 💻 Technical Stack
+### 🏆 Featured Projects  
 
-### Programming & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,mysql,postgres,mongodb,redis" alt="Programming Languages" />
-</p>
+🔹 **End-to-End Heart Disease Prediction System**  
+Comprehensive ML pipeline predicting heart disease risk using Streamlit for deployment.  
+[GitHub Repo](https://github.com/n0urhatem/heart-disease-prediction) | [Kaggle Notebook](#) | [Live Demo](#)
 
-### Machine Learning & AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,keras,pandas,numpy,matplotlib,seaborn" alt="ML & AI Tools" />
-</p>
+🔹 **HR Data Analysis Dashboard (Power BI)**  
+Interactive HR analytics dashboard uncovering workforce patterns for executive decision-making.  
+[GitHub Repo](https://github.com/n0urhatem/HR-Data-Analysis)
 
-### Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,jenkins,git,linux" alt="Cloud & DevOps" />
-</p>
+🔹 **Bank Marketing Prediction Model**  
+Decision tree model predicting client purchasing behavior with feature engineering and tuning.  
+[GitHub Repo](https://github.com/n0urhatem/bank-marketing-prediction)
 
-### Data Engineering & MLOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=airflow,spark,fastapi,streamlit,powerbi,tableau,jupyter,vscode" alt="Data Engineering" />
-</p>
+🔹 **Traffic Accident Data Analysis**  
+Data-driven insights into accident trends based on weather and time factors using visualization tools.  
+[GitHub Repo](https://github.com/n0urhatem/traffic-accident-analysis)
+
+🔹 **Social Media Sentiment Analysis**  
+NLP-based sentiment classification system exploring public opinions on trending topics.  
+[GitHub Repo](https://github.com/n0urhatem/social-media-sentiment-analysis)
 
 ---
 
-## 📈 GitHub Analytics
+### ⚙️ Tech Stack  
+
+#### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+#### **Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0078D7?style=flat-square&logo=xgboost&logoColor=white)
+
+#### **Data & Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+#### **MLOps & Deployment**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+#### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+---
+
+### 📚 Continuous Learning  
+I’m expanding expertise in:  
+- Deep Learning & Generative AI  
+- MLOps and Model Deployment  
+- Data Engineering with PySpark  
+- Cloud ML Platforms (AWS, GCP)
+
+---
+
+### 📊 GitHub Analytics  
 
 <div align="center">
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=n0urhatem&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&hide_title=false" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=n0urhatem&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0urhatem&layout=compact&theme=radical&hide_border=true&hide_title=false" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=n0urhatem&show_icons=true&theme=tokyonight&hide_border=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=n0urhatem&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=n0urhatem&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🌟 Continuous Learning
-
-### Currently Mastering
-- **Advanced Deep Learning:** Transformers, GANs, Diffusion Models
-- **MLOps & Production:** Kubeflow, MLflow, Feature Stores
-- **Big Data Technologies:** Apache Spark, Dask, Ray
-- **Cloud Native ML:** AWS SageMaker, Google Vertex AI
-
-### Learning Platforms
-<p align="center">
-  <a href="https://www.kaggle.com/nourelhashash">
-    <img src="https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.coursera.org/">
-    <img src="https://img.shields.io/badge/Coursera-Specializations-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
-  </a>
-</p>
-
----
-
-## 📫 Let's Connect
+### 🤝 Let’s Connect  
 
 <div align="center">
 
-### 💼 Professional Profiles
-<p align="center">
-  <a href="https://linkedin.com/in/nour-hatem-">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/nourelhashash">
-    <img src="https://img.shields.io/badge/Kaggle-View%20Projects-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-</p>
-
-### 📧 Get In Touch
-<p align="center">
-  <a href="mailto:nour.hatem117@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nour.hatem117@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/n0urhatem">
-    <img src="https://img.shields.io/badge/Portfolio-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-hatem-)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nour.hatem117@gmail.com)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nourhatem)
 
 </div>
 
@@ -161,9 +121,8 @@ I'm a passionate **Computer Science and Artificial Intelligence** student at Hel
 
 <div align="center">
 
-### 🐍 Contribution Graph
-<img src="https://raw.githubusercontent.com/n0urhatem/n0urhatem/output/snake.svg" alt="Snake Animation" />
-
-**Thanks for visiting! Let's build the future of AI together.** 🚀
+![snake gif](https://github.com/n0urhatem/n0urhatem/blob/output/github-contribution-grid-snake.svg)
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
