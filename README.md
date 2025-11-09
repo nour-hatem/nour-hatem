@@ -129,14 +129,14 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
 ### 💳 ECommerce-SQL-Database-Analysis
 **Data Engineering | SQL | Analytics**
 - End-to-end data analysis project for e-commerce dataset
-- Built database from scratch with normalized schema
+- Built a database from scratch with a normalized schema
 - Complex SQL queries for business insights
 - **[Repository](https://github.com/n0urhatem/ECommerce-SQL-Database-Analysis)**
 
 ### 🌸 FNP-Sales-Analysis
 **Business Intelligence | Excel | Dashboard**
 - Sales performance analysis dashboard for Ferns N Petals
-- Product sales, customer spending, delivery efficiency insights
+- Product sales, customer spending, and delivery efficiency insights
 - Peak occurrence patterns & seasonal trends
 - **[Repository](https://github.com/n0urhatem/FNP-Sales-Analysis)**
 
