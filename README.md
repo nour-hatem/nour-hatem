@@ -1,4 +1,4 @@
-# Hi there, I'm Nour Hatem! 👋
+# Hi there, I'm Nour Hatem 👋
 
 <div align="center">
 <a href="https://github.com/n0urhatem">
