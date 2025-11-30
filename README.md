@@ -153,16 +153,21 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
 <div align="center">
 
   <img 
-    src="https://streak-stats.demolab.com?user=nour-hatem&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+    src="https://streak-stats.demolab.com?user=nour-hatem&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     alt="GitHub Streak Stats"
     width="48%"
+    style="display:inline-block;"
   />
 
   <img 
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/nour-hatem?cardType=level-alternate&theme=dark" 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/nour-hatem?cardType=level-alternate&theme=dark"
     alt="GitHub Stats"
     width="48%"
+    style="display:inline-block;"
   />
+
+</div>
+
 
 </div>
 
