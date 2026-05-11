@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/nour-hatem">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=10&deletionSpeed=1&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer;ML+Engineer;Deep+Learning+Practitioner;CS+%26+AI+Student;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=800&deletionSpeed=35&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=AI+Engineer;ML+Engineer;Deep+Learning+Practitioner;CS+%26+AI+Student;" alt="Typing SVG" />
 </a>
 
 </div>
