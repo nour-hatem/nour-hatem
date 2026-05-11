@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/nour-hatem">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer;ML+Engineer;Deep+Learning+Practitioner;CS+%26+AI+Student;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=10&deletionSpeed=1&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer;ML+Engineer;Deep+Learning+Practitioner;CS+%26+AI+Student;" alt="Typing SVG" />
 </a>
 
 </div>
@@ -10,11 +10,11 @@
 
 ## About Me
 
-CS & AI student at Helwan University, building intelligent systems that actually work in production.
+CS & AI student at Helwan University. I build intelligent systems — from research to production.
 
-My focus is on applied AI — from training vision models and fine-tuning language models, to deploying them behind real APIs. I care about the full stack: research, engineering, and deployment.
+My work spans Computer Vision, NLP, Deep Learning, and ML Engineering. I care about the full pipeline: designing models, training them properly, and shipping them behind real APIs.
 
-- Currently building an end-to-end skin cancer detection system using EfficientNetV2-S + FastAPI + Docker
+- Building end-to-end AI systems using Transfer Learning, deep neural networks, and modern architectures
 - Exploring LLMs, RAG pipelines, and AI Agents for real-world applications
 - Ask me about Deep Learning, Computer Vision, NLP, or MLOps
 - Chess player. I approach AI problems the same way — think ahead, commit to a line
@@ -40,9 +40,9 @@ My focus is on applied AI — from training vision models and fine-tuning langua
 
 | Domain | Focus |
 |--------|-------|
-| **Computer Vision** | CNNs, Transfer Learning, Object Detection, Medical Imaging |
+| **Computer Vision** | CNNs, Transfer Learning, Object Detection, Image Classification |
 | **NLP & LLMs** | Text Classification, Fine-tuning, RAG, Prompt Engineering |
-| **AI Agents** | Tool use, Agentic workflows, LangChain-style orchestration |
+| **AI Agents** | Tool use, Agentic workflows, Multi-step reasoning |
 | **Deep Learning** | Model architecture, Training pipelines, Optimization |
 | **ML Engineering** | FastAPI, Docker, MLflow, Model Serving, Production pipelines |
 
