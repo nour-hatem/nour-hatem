@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/nour-hatem">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=800&deletionSpeed=35&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=AI+Engineer;ML+Engineer;Deep+Learning+Practitioner;CS+%26+AI+Student;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=800&deletionSpeed=35&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=AI+Engineer;ML+Engineer;Data+Scientist;Deep+Learning+Practitioner;CS+%26+AI+Student;" alt="Typing SVG" />
 </a>
 
 </div>
@@ -10,17 +10,17 @@
 
 ## About Me
 
-CS & AI student at Helwan University. I build intelligent systems — from research to production.
+CS & AI student at Helwan University. I work across the full stack of intelligence — from raw data to deployed models.
 
-My work spans Computer Vision, NLP, Deep Learning, and ML Engineering. I care about the full pipeline: designing models, training them properly, and shipping them behind real APIs.
+My work spans Computer Vision, NLP, Deep Learning, ML Engineering, and Data Science. I care about the full pipeline: designing models, training them properly, and shipping them behind real APIs.
 
 - Building end-to-end AI systems using Transfer Learning, deep neural networks, and modern architectures
-- Exploring LLMs, RAG pipelines, and AI Agents for real-world applications
-- Ask me about Deep Learning, Computer Vision, NLP, or MLOps
+- Working with LLMs, RAG pipelines, and AI Agents for real-world applications
+- Data pipelines, dashboards, and BI — not just models, but decisions
 - Chess player. I approach AI problems the same way — think ahead, commit to a line
 
 <p align="center">
-  <a href="https://nour-hatem.web.app/" target="_blank">
+  <a href="https://nourhatem.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=appveyor&logoColor=white" alt="Website"/>
   </a>
   <a href="https://linkedin.com/in/nour-hatem-" target="_blank">
@@ -45,6 +45,7 @@ My work spans Computer Vision, NLP, Deep Learning, and ML Engineering. I care ab
 | **AI Agents** | Tool use, Agentic workflows, Multi-step reasoning |
 | **Deep Learning** | Model architecture, Training pipelines, Optimization |
 | **ML Engineering** | FastAPI, Docker, MLflow, Model Serving, Production pipelines |
+| **Data Science & BI** | SQL, Power BI, Statistical Analysis, Dashboard Design |
 
 ---
 
@@ -57,6 +58,7 @@ My work spans Computer Vision, NLP, Deep Learning, and ML Engineering. I care ab
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-006B00?style=for-the-badge&logo=xgboost&logoColor=white"/>
@@ -79,6 +81,7 @@ My work spans Computer Vision, NLP, Deep Learning, and ML Engineering. I care ab
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
